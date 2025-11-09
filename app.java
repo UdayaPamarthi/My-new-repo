@@ -5,4 +5,7 @@ public class HelloWorld {
 }
 
 new code by dev1
+<<<<<<< Updated upstream
 new code by dev2
+new code by dev3
+>>>>>>> Stashed changes
